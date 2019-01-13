@@ -1,0 +1,14 @@
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\bin\Debug\QuickNoteWpf.exe.config
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\bin\Debug\QuickNoteWpf.exe
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\bin\Debug\QuickNoteWpf.pdb
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\MainWindow.g.cs
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\App.g.cs
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf_MarkupCompile.cache
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf_MarkupCompile.lref
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\MainWindow.baml
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf.g.resources
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf.Properties.Resources.resources
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf.csproj.GenerateResource.cache
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf.csproj.CoreCompileInputs.cache
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf.exe
+J:\code\Projects\QuickNoteProject\QuickNoteWpf\QuickNoteWpf\obj\Debug\QuickNoteWpf.pdb
